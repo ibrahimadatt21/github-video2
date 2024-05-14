@@ -1,0 +1,13 @@
+iboud@IIDU68H MINGW64 ~/github2 (master)
+$ git config --global --list
+user.name=ibrahimadatt21
+user.email=iboudatt@outlook.fr
+credential.helper=manager-core
+core.editor="C:\Users\iboud\AppData\Local\Programs\Microsoft VS Code\bin\code" --wait
+filter.lfs.smudge=git-lfs smudge -- %f
+filter.lfs.process=git-lfs filter-process
+filter.lfs.required=true
+filter.lfs.clean=git-lfs clean -- %f
+credential.https://gitlab.com.provider=generic
+
+
